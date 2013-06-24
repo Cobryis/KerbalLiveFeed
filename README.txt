@@ -1,6 +1,8 @@
 KerbalLiveFeed Plugin, Client and Server v0.5.0
 Created by Alfred Lam
 
+Forked by Cobryis
+
 ======= Installation ===========================================
 
 Place KLFClient.exe in your KSP install folder
